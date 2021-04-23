@@ -17,6 +17,6 @@ Once you are directed to the chatbot interface, you can enter your question or q
 
 ## **THE PROJECT IS A DEMONSTRATION OF HOW REAL WORLD CHATBOTS WORK AND IS USED FOR EDUCATIONAL PURPOSE ONLY**
 
-
-
+<br/>
+<br/>
 ![College_eng_chatbot](https://user-images.githubusercontent.com/77825652/115880663-9b0ff380-a468-11eb-9d27-e615bc9d492e.gif)
