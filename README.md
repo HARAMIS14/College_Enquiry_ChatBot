@@ -14,4 +14,4 @@ Open command prompt and run 'main.py', once it runs, open the link 'http://127.0
 # DEMO: 
 Once you are directed to the chatbot interface, you can enter your question or query in the text box at the bottom. And you will see that chatbot responds to you quickly. For example if you enter 'courses information', you will get a detailed information of the courses offered by the college.   
 
-THE PROJECT IS A DEMONSTRATION OF HOW REAL WORLD CHATBOTS WORK AND IS USED FOR EDUCATIONAL PURPOSE ONLY.
+###### THE PROJECT IS A DEMONSTRATION OF HOW REAL WORLD CHATBOTS WORK AND IS USED FOR EDUCATIONAL PURPOSE ONLY.
