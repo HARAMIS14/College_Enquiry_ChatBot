@@ -5,7 +5,7 @@ College_enquiry_chat-bot is a simple web based application which aims to provide
 For installation enter 'pip install -r requirements.txt' in command prompt.
 
 # Python EXECUTION: 
-Open command prompt and run 'mymodel_train.py' to train the bot.
+Open command prompt and run 'model_train.py' to train the bot.
 
 # Interface EXECUTION: 
 Open command prompt and run 'main.py', once it runs, open the link 'http://127.0.0.1:5000/' on a browser and start chatting with the bot...
