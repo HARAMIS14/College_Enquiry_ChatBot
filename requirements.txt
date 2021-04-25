@@ -5,4 +5,3 @@ json5==0.8.5
 numpy==1.17.3
 tensorflow
 spacy==2.3.4
-tf-nightly
