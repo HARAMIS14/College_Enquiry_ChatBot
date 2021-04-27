@@ -1,0 +1,6 @@
+*.gif
+main.py
+model_train.py
+*.json
+*.ph
+*.pth
