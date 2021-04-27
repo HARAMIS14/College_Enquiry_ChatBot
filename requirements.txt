@@ -1,7 +1,6 @@
 nltk
-Flask==1.1.1
-gunicorn==20.0.0
-json5==0.8.5
-numpy==1.17.3
+Flask
+json5
+numpy
 tensorflow
-spacy==2.3.4
+keras
